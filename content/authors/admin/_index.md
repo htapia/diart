@@ -3,14 +3,14 @@
 title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Horacio Tapia-McClung
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: horacio
+last_name: tapia-mcclung
 
 # Status emoji
-status:
+status: hungry
   icon: ☕️
 
 # Is this the primary user of the site?
@@ -21,11 +21,11 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Universidad Veracruzana
+    url: https://www.uv.mx/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include stochastic processes, complex systems, financial markets time series and physics modelling.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -54,6 +54,4 @@ highlight_name: true
 website: ""
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I code
